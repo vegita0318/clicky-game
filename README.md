@@ -1,3 +1,12 @@
+Welcome to Marvel's Clicky Game. This is a REACT app created to test ones memory of 15 Marvel characters. Try your best to select a character only once, while trying to reach a score of 15. A player will be awarded 1 point for each correct selection. In the event of selecting a character twice, the score will return to 0 and the game will restart.
+
+****for the best viewing, use half window sizes on computers. Viewing on mobile and tablets are optimized*****
+
+Launch the game from Heroku:
+https://marvel-clicky-game2.herokuapp.com/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
